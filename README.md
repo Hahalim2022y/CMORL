@@ -2,7 +2,6 @@
   <h1 align="center">CMORL</h1>
 </div>
 
----
 
 ## 🛠️ 使用指南
 ### 1. Train/Play
